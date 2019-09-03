@@ -1,5 +1,5 @@
 const driver = 'bob';
-const message = 'this code was called';
-console.log(message);
+
+console.log('this code was called');
 console.log(driver);
-console.log(driver, message);
+console.log(driver + 'is the driver variable name');
